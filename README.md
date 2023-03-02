@@ -12,6 +12,7 @@ Projeto concluído no curso de responsividade com mobile first da Alura
 * HTML
 * CSS
 * SwiperJS
+* FlexBox
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
